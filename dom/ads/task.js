@@ -34,6 +34,5 @@ rotators.forEach((rotator) => {
     }, speed);
   }
 
- 
-  rotate();
+   rotate();
 });
